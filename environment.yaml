@@ -1,0 +1,5 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Yuxin\miniconda3\envs\myenv
